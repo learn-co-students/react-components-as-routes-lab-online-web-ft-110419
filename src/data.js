@@ -28,7 +28,7 @@ let actors = [
   },
   {
     name: 'Anna Kendrick',
-    movies: ['Trolls', 'Pitch Perfect', 'Into The Wood']
+    movies: ['Trolls', 'Pitch Perfect', 'Into The Woods']
   },
   {
     name: 'Tom Cruise',
@@ -47,7 +47,7 @@ let directors = [
   },
   {
     name: 'Edward Zwick',
-    movies: ['Jack Reacher: Never Go Back', 'Blood Diamon', 'The Siege']
+    movies: ['Jack Reacher: Never Go Back', 'Blood Diamond', 'The Siege']
   }
 ]
 
