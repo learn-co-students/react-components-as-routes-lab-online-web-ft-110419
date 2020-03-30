@@ -24,7 +24,7 @@ const Movies = () => {
   return (
     <div>
       <h1>Movies Page</h1>
-  <div>{list}</div>
+  {list}
         
     </div>
   );
