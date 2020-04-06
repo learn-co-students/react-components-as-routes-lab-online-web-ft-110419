@@ -1,12 +1,6 @@
 import React from 'react';
 import { actors } from '../data';
 
-// title: 'Doctor Strange',
-//   time: 115,
-//     genres: ['Action', 'Adventure', 'Fantasy'],
-//       metascore: 7
-
-debugger
 const Actors = () => {
   return (
     <div>
