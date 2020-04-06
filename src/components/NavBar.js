@@ -10,8 +10,7 @@ const link = {
   margin: "0 5px"
 }
 const activeClick = (e) => {
-  let coloring = e.target.style
-  coloring.backgroundColor = "red"
+  e.target.style.backgroundColor = "red"
 }
 const hover = (e, coluor) => {
   e.target.style.backgroundColor = coluor
