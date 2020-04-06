@@ -11,7 +11,6 @@ import Movies from '../components/Movies';
 
 
 const App = (props) => {
-  debugger
   return (
     <Router>
       <div>
